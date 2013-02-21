@@ -3,7 +3,6 @@ tugas1
 
 Universitas Negeri Malang
 
-<!DOCTYPE html>
 <title> Deskripsi Diri </title>
 <body>
 <h1> <b>Penggambaran diriku</b>. </h1>
